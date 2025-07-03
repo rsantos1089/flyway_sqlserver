@@ -19,4 +19,4 @@ In order to locally setup the environment follow these steps:
 4. Put your migration files in `flyway/sql` folder.
 5. Open a terminal window and execute `docker compose up -d`.
 6. To generate new db version only create new .sql file below flyway/sql folder and run `docker compose restart`
-7. To finish the process type `docker compose down`
+7. To finish the process type the follow command `docker compose down`
